@@ -1,0 +1,31 @@
+body{
+    background: #DAF7A6;
+}
+.form{
+    position:left;
+    /*left: 50%;*/
+    top: 10%;
+    margin-right: 1000px;
+    margin-left: 260px;
+    border: 5px solid  #C70039;
+    padding:15px;
+    background: #48c9b0 
+
+
+}
+.box{
+    width: 200px;
+    height: 50px;
+    border:3px solid  #C70039;
+    font-size: 40px;
+}
+.form  div input{
+
+text-align: center;
+width: 48px;
+height: 48px;
+background: #C70039;
+color: #333333;
+
+
+}
